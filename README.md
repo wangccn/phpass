@@ -1,6 +1,6 @@
 Portable PHP password hashing framework.
 
-Version 0.3 / genuine.
+Version 0.5 / genuine.
 
 Written by Solar Designer <solar at openwall.com> in 2004-2006 and placed in
 the public domain.  Revised in subsequent years, still public domain.
